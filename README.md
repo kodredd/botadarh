@@ -40,7 +40,7 @@
 
 
 ```env
-ME_TOKEN = Bot Token
+ME_TOKEN = OTU2OTA3NDg1NTIyOTY4NjQ2.G5WKee.9sV3kpUc3swZELRG7RbevrMvXzwZvGPmAIwAS0
 ME_MONGO = MongoDB Url
 ```
 
